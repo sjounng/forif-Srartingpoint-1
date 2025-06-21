@@ -1,0 +1,53 @@
+# 빌드 결과물
+bin/
+obj/
+*.o
+*.exe
+*.out
+
+# 실행 파일
+typing_practice
+typing_practice.exe
+
+# 디버그 정보
+*.dSYM/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# macOS 시스템 파일
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE 설정 파일
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 로그 파일
+*.log
+
+# 임시 파일
+*.tmp
+*.temp
+
+# 백업 파일
+*.bak
+*.backup
+
+# 압축 파일
+*.zip
+*.tar.gz
+*.rar
+
+# 컴파일러 생성 파일
+*.gch
+*.pch 
